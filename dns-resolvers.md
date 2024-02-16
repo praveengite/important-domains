@@ -1,4 +1,37 @@
-# Updated on: 2024 Feb
+## Updated on: 2024 Feb
+### Winux DNS resolvers
+***
+***Bhopal***
+
+**IPv4** 
+-   **Primary DNS**: 103.127.185.138
+-   **Secondary DNS**: 
+
+**IPv6** 
+-   **Primary DNS**: 
+-   **Secondary DNS**: 
+***
+***Indore***
+
+**IPv4** 
+-   **Primary DNS**: 103.127.186.2
+-   **Secondary DNS**: 
+
+**IPv6** 
+-   **Primary DNS**: 
+-   **Secondary DNS**: 
+***
+***Khandwa***
+
+**IPv4** 
+-   **Primary DNS**: 103.127.184.130
+-   **Secondary DNS**: 103.188.48.13
+
+**IPv6** 
+-   **Primary DNS**: 2400:80a0:0:20::2
+-   **Secondary DNS**: 2400:80a0:0:30::2
+***
+
 ### Low latency peered public DNS resolvers
 ***
 ***Google***
