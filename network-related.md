@@ -45,6 +45,8 @@
 
 [waveform.com](https://www.waveform.com/tools/bufferbloat) - ``` to test the speed of the connection and bufferbloat data.```
 
+[backblaze](https://www.backblaze.com/cloud-backup/resources/speedtest) - ``` to test the speed of the connection towards Europe and US.```
+
 # looking glass/ route servers
 [nixi](https://lg.nixi.in/) - ```NIXI India looking glass.```
 
