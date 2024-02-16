@@ -26,10 +26,12 @@
 **IPv4** 
 -   **Primary DNS**: 103.127.184.130
 -   **Secondary DNS**: 103.188.48.13
+-   **AdguardDNS**: 103.188.48.15
 
 **IPv6** 
 -   **Primary DNS**: 2400:80a0:0:20::2
 -   **Secondary DNS**: 2400:80a0:0:30::2
+-   **AdguardDNS**: 2400:80a0:0:1e::2
 ***
 
 ### Low latency peered public DNS resolvers
