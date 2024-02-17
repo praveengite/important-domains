@@ -7,6 +7,8 @@
 
 [bgp.he.net](https://bgp.he.net/)- ```global BGP ecosystem information.```
 
+[irrexplorer](https://irrexplorer.nlnog.net/)- ```IRR explorer shows the routing, IRR and RPKI status for resources, and highlights potential issues.```
+
 [tools.keycdn.com](https://tools.keycdn.com/) - ``` collection of tools to troubleshoot websites, network etc...```
 
 [globalping](https://www.jsdelivr.com/globalping) - ``` collection of tools to troubleshoot websites, network etc...```
