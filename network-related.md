@@ -25,7 +25,7 @@
 
 [uceprotect](https://www.uceprotect.net/en/rblcheck.php) - ```abusive IP, blacklisting and spam database.```
 
-[spamhaus](https://www.spamhaus.org/) - ```abusive IP, blacklisting and spam database.```
+[spamhaus](https://check.spamhaus.org/) - ```abusive IP, blacklisting and spam database.```
 
 # IPv6/ IPv4 connectivity test
 [test-ipv6.com](https://test-ipv6.com/) - ``` to test IPv6  and IPv4 connectivity.```
