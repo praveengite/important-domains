@@ -37,26 +37,26 @@
 
 
 # IPv6/ IPv4 connectivity test
-[test-ipv6.com](https://test-ipv6.com/) - ``` to test IPv6  and IPv4 connectivity.```
+[test-ipv6.com](https://test-ipv6.com/) - ```To test IPv6  and IPv4 connectivity.```
 
-[ipv6-test.com](https://ipv6-test.com/) - ``` to test IPv6  and IPv4 connectivity.```
+[ipv6-test.com](https://ipv6-test.com/) - ```To test IPv6  and IPv4 connectivity.```
 
-[ipv6.biz](https://ip6.biz/) - ``` to test IPv6  and IPv4 connectivity.```
+[ipv6.biz](https://ip6.biz/) - ```To test IPv6  and IPv4 connectivity.```
 
-[speedguide.net](http://www.speedguide.net:8080/) - ``` to analyse the TCP/IP information of the connection.```
+[speedguide.net](http://www.speedguide.net:8080/) - ```To analyse the TCP/IP information of the connection.```
 
 # speedtest and related
-[speedtest.net](https://www.speedtest.net/) - ``` to test the speed of the connection.```
+[speedtest.net](https://www.speedtest.net/) - ```To test the speed of the connection.```
 
-[openspeedtest.com](https://openspeedtest.com/) - ``` to test the speed of the connection.```
+[openspeedtest.com](https://openspeedtest.com/) - ```To test the speed of the connection.```
 
-[fast.com](https://fast.com/) - ``` to test the speed of the connection.```
+[fast.com](https://fast.com/) - ```To test the speed of the connection.```
 
-[speed.cloudflare.com](https://speed.cloudflare.com/) - ``` to test the speed of the connection and bufferbloat data.```
+[speed.cloudflare.com](https://speed.cloudflare.com/) - ```To test the speed of the connection and bufferbloat data.```
 
-[waveform.com](https://www.waveform.com/tools/bufferbloat) - ``` to test the speed of the connection and bufferbloat data.```
+[waveform.com](https://www.waveform.com/tools/bufferbloat) - ```To test the speed of the connection and bufferbloat data.```
 
-[backblaze](https://www.backblaze.com/cloud-backup/resources/speedtest) - ``` to test the speed of the connection towards Europe and US.```
+[backblaze](https://www.backblaze.com/cloud-backup/resources/speedtest) - ```To test the speed of the connection towards Europe and US.```
 
 # looking glass/ route servers
 [nixi](https://lg.nixi.in/) - ```NIXI India looking glass.```
