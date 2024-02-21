@@ -1,37 +1,37 @@
 # Network/ ISP Related Domains List
 
 # tools and analytics
-[root-servers.org](https://root-servers.org/) - ```global root servers database and information.```
+[root-servers.org](https://root-servers.org/) - ```Global root servers database and information.```
 
-[bgp.tools](https://bgp.tools/) - ```global BGP ecosystem information, MTU & MSS Check, MAC Search etc...```
+[bgp.tools](https://bgp.tools/) - ```Global BGP ecosystem information, MTU & MSS Check, MAC Search etc...```
 
-[bgp.he.net](https://bgp.he.net/)- ```global BGP ecosystem information.```
+[bgp.he.net](https://bgp.he.net/)- ```Global BGP ecosystem information.```
 
 [irrexplorer](https://irrexplorer.nlnog.net/)- ```IRR explorer shows the routing, IRR and RPKI status for resources, and highlights potential issues.```
 
-[tools.keycdn.com](https://tools.keycdn.com/) - ``` collection of tools to troubleshoot websites, network etc...```
+[tools.keycdn.com](https://tools.keycdn.com/) - ```Collection of tools to troubleshoot websites, network etc...```
 
-[globalping](https://www.jsdelivr.com/globalping) - ``` collection of tools to troubleshoot websites, network etc...```
+[globalping](https://www.jsdelivr.com/globalping) - ```Collection of tools to troubleshoot websites, network etc...```
 
-[myip.ms](https://myip.ms) - ```to get IPv4 and IPv6 address details.```
+[myip.ms](https://myip.ms) - ```To get IPv4 and IPv6 address details.```
 
-[peeringdb.com](https://www.peeringdb.com/) - ```database of networks, and the go-to location for interconnection data.```
+[peeringdb.com](https://www.peeringdb.com/) - ```Database of networks, and the go-to location for interconnection data.```
 
 [apnic.whois](https://wq.apnic.net//static/search.html) - ```APNIC whois search page.```
 
-[ripe.probes](https://atlas.ripe.net/probes) - ```a list of all current RIPE Atlas probes, including information specific to each probe.```
+[ripe.probes](https://atlas.ripe.net/probes) - ```A list of all current RIPE Atlas probes, including information specific to each probe.```
 
 [netox.apnic](https://netox.apnic.net/) - ```APNIC network operator toolbox.```
 
-[uceprotect](https://www.uceprotect.net/en/rblcheck.php) - ```abusive IP, blacklisting and spam database.```
+[uceprotect](https://www.uceprotect.net/en/rblcheck.php) - ```Abusive IP, blacklisting and spam database.```
 
-[spamhaus](https://check.spamhaus.org/) - ```abusive IP, blacklisting and spam database.```
+[spamhaus](https://check.spamhaus.org/) - ```Abusive IP, blacklisting and spam database.```
 
 [reverse-dns-gen](https://www.whatsmydns.net/reverse-dns-generator) - ```Convert IPv4 and IPv6 addresses into reverse DNS record formats for PTR records in DNS zones.```
 
 [ipv6-subnet-calculation](https://www.internex.at/de/toolbox/ipv6) - ```Tool to calcutalte IPv6 subnets.```
 
-[ipv6-subnet-calculation](https://www.site24x7.com/tools/ipv6-subnetcalculator.html) - ```Tool to calcutalte IPv6 subnets.```
+[ipv6-subnet-calculation-site24x7](https://www.site24x7.com/tools/ipv6-subnetcalculator.html) - ```Tool to calcutalte IPv6 subnets.```
 
 [verisign-tools](https://www.verisign.com/en_US/company-information/verisign-labs/internet-security-tools/index.xhtml) - ```Tools to improve internet security, stability and resiliency. Explore a set of Domain Name System tools.```
 
