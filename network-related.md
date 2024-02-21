@@ -45,6 +45,11 @@
 
 [speedguide.net](http://www.speedguide.net:8080/) - ```To analyse the TCP/IP information of the connection.```
 
+[icmp-check](http://icmpcheck.popcount.org/) - ```ICMP path MTU packet delivery check.```
+
+[icmp-check-v6](http://icmpcheckv6.popcount.org/) - ```ICMPv6 path MTU packet delivery check.```
+
+
 # speedtest and related
 [speedtest.net](https://www.speedtest.net/) - ```To test the speed of the connection.```
 
