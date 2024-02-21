@@ -27,6 +27,15 @@
 
 [spamhaus](https://check.spamhaus.org/) - ```abusive IP, blacklisting and spam database.```
 
+[reverse-dns-gen](https://www.whatsmydns.net/reverse-dns-generator) - ```Convert IPv4 and IPv6 addresses into reverse DNS record formats for PTR records in DNS zones.```
+
+[ipv6-subnet-calculation](https://www.internex.at/de/toolbox/ipv6) - ```Tool to calcutalte IPv6 subnets.```
+
+[ipv6-subnet-calculation](https://www.site24x7.com/tools/ipv6-subnetcalculator.html) - ```Tool to calcutalte IPv6 subnets.```
+
+[verisign-tools](https://www.verisign.com/en_US/company-information/verisign-labs/internet-security-tools/index.xhtml) - ```Tools to improve internet security, stability and resiliency. Explore a set of Domain Name System tools.```
+
+
 # IPv6/ IPv4 connectivity test
 [test-ipv6.com](https://test-ipv6.com/) - ``` to test IPv6  and IPv4 connectivity.```
 
