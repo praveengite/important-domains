@@ -7,6 +7,8 @@
 
 [bgp.he.net](https://bgp.he.net/)- ```Global BGP ecosystem information.```
 
+[radar.clouflare](https://radar.cloudflare.com/) - ```Cloudflare Radar is a hub that showcases global Internet traffic, attack, and technology trends and insights..```
+
 [irrexplorer](https://irrexplorer.nlnog.net/)- ```IRR explorer shows the routing, IRR and RPKI status for resources, and highlights potential issues.```
 
 [tools.keycdn.com](https://tools.keycdn.com/) - ```Collection of tools to troubleshoot websites, network etc...```
