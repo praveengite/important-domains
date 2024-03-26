@@ -41,9 +41,9 @@
 
 [dns-sec-test](https://wander.science/projects/dns/dnssec-resolver-test/) - ```This web-based test checks whether your domain name lookups are protected by DNSSEC```
 
-[dns-sec-test](http://www.dnssec-or-not.com/) - ```This web-based test checks whether your domain name lookups are protected by DNSSEC```
+[dns-sec-or-not](http://www.dnssec-or-not.com/) - ```This web-based test checks whether your domain name lookups are protected by DNSSEC```
 
-[dns-sec-test](https://internet.nl/connection) - ```This web-based test checks whether your domain name lookups are protected by DNSSEC```
+[internet.nl(https://internet.nl/connection) - ```This web-based test checks whether your domain name lookups are protected by DNSSEC```
 
 
 
