@@ -39,6 +39,13 @@
 
 [geolocate](https://geolocatemuch.com/) - ```Can be used to check and set the geolocation of entire prefixes or specific IPs.```
 
+[dns-sec-test](https://wander.science/projects/dns/dnssec-resolver-test/) - ```This web-based test checks whether your domain name lookups are protected by DNSSEC```
+
+[dns-sec-test](http://www.dnssec-or-not.com/) - ```This web-based test checks whether your domain name lookups are protected by DNSSEC```
+
+[dns-sec-test](https://internet.nl/connection) - ```This web-based test checks whether your domain name lookups are protected by DNSSEC```
+
+
 
 # IPv6/ IPv4 connectivity test
 [test-ipv6.com](https://test-ipv6.com/) - ```To test IPv6  and IPv4 connectivity.```
