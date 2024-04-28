@@ -43,8 +43,7 @@
 
 [dns-sec-or-not](http://www.dnssec-or-not.com/) - ```This web-based test checks whether your domain name lookups are protected by DNSSEC```
 
-[internet.nl](https://internet.nl/connection) - ```This web-based test checks whether your domain name lookups are protected by DNSSEC```
-
+[bitlug-ip-toolbox](https://www.bitlug.com/act/index.html) - ```This web-based tools collection for IP Subnet```
 
 
 # IPv6/ IPv4 connectivity test
