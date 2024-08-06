@@ -45,6 +45,8 @@
 
 [bitlug-ip-toolbox](https://www.bitlug.com/act/index.html) - ```This web-based tools collection for IP Subnet```
 
+[mtu calculation](https://baturin.org/tools/encapcalc/) - ```This is a web-based Visual packet size calculator```
+
 
 # IPv6/ IPv4 connectivity test
 [test-ipv6.com](https://test-ipv6.com/) - ```To test IPv6  and IPv4 connectivity.```
