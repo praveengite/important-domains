@@ -43,6 +43,14 @@
 
 [dns-sec-or-not](http://www.dnssec-or-not.com/) - ```This web-based test checks whether your domain name lookups are protected by DNSSEC```
 
+[dns-leak-test](https://www.dnsleaktest.com/) - ```This web-based test checks whether your DNS has some leaks```
+
+[dns-check](https://www.dnscheck.tools/) - ```This web-based test for DNS leaks, DNSSEC validation, and more```
+
+[browserleaks](https://browserleaks.com/) - ```A suite of tools that offers a range of tests to evaluate the security and privacy of your web browser```
+
+[ip-leak](https://ipleak.net/) - ```Online tool for DNS leaks, IP validation, and more```
+
 [bitlug-ip-toolbox](https://www.bitlug.com/act/index.html) - ```This web-based tools collection for IP Subnet```
 
 [mtu calculation](https://baturin.org/tools/encapcalc/) - ```This is a web-based Visual packet size calculator```
